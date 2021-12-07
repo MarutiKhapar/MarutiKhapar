@@ -10,6 +10,7 @@
 - FACEBOOK-https://facebook.com/Chilled.Duke/
 - INSTAGRAM-https://www.instagram.com/chilled_duke/
 - LINKEDIN-https://www.linkedin.com/in/maruti-khapare-a274911b3/
+- YOUTUBE -https://youtube.com/channel/UCYpwj4Lr6QJa7Dd1n_vjgjQ
 - 😄 Pronouns: HE/HE'S
 - ⚡ Fun fact: Can Stay all Night Up For Work*
 
