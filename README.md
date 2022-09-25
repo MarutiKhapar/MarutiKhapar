@@ -1,7 +1,7 @@
 ### Hola Iam Maruti Khapare 👋
 
 - 🔭 I’m currently working on Projects
-- 🌱 I’m currently learning Advance Python
+- 🌱 I’m currently learning Embedded Technologies such as C,C++ Programming, Linux And VC++  
 - 👯 I’m looking to collaborate on Deep Machine Learning Algorithms (ON ALL PLATFORMS)
 - 🤔 I’m Can help with Photoshop, Graphic Design, Python Core E&C Concepts
 - 💬 Ask me about Jypter Notebook, Spyder, Vscode, Xilinx, Modelsim Or any Tech Related Stuff
