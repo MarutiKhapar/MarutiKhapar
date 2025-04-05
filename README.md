@@ -1,25 +1,59 @@
 ### Hola Iam Maruti Khapare 👋
+## 👋 Hi there, I’m Maruti Khapare
 
-I’m Maruti Khapare, a multi-skilled professional working at the intersection of UI Design, Marketing, and Human Resource Management. With a foundation in electronics engineering and hands-on experience in digital design, I'm driven by a simple goal — to make things work and look great while aligning teams and systems behind the scenes to scale that success.
-Currently balancing dual roles as Marketing Manager and HR Manager across multiple companies, I’ve led everything from CRM and website development to influencer collaborations, international catalogue designs, and HR/payroll process optimization. Whether it's leading creative direction or building internal systems, I approach every project with a builder’s mindset, a designer’s eye, and a manager’s discipline.
-Some wins I’m proud of:
-Boosted SEO and engagement for a residential sports school website, scaling traffic to over 1M visits/day
-Designed and launched marketing assets for Shri Mahaganapati Jewellers and Flexpert Pvt. Ltd
-Developed catalogues and digital presence for Sparda Degree College, MG Jewellers, and Flexpert
-Core Skills
-UI/UX Design
-Digital Marketing
-Graphic Design
-HR Systems & Payroll
-Website & Catalogue Development
-Tools & Tech
-Adobe Suite, Figma, Canva
-WordPress, SEO tools
-Python (Basics for AI/ML), MS Azure AI900
-Quick Facts
-Certified in Machine Learning (Azure AI900)
-Recipient of the President's & Governor’s Award
-Fluent in English, Hindi, Marathi; conversational Kannada
-Former NCC cadet and active participant in national-level workshops
-Let’s connect
-📩 makhpare@gmail.com
+🎯 A results-driven **UI/UX Designer | Marketing Consultant | HR Manager** with a unique blend of creative and operational expertise. I design intuitive user experiences, lead impactful marketing campaigns, and optimize internal systems — all with precision and purpose.
+
+---
+
+### 💼 What I Do
+- 🎨 **UI/UX Design** — Clean, user-focused interfaces that convert
+- 📢 **Digital Marketing** — SEO, social media, email & content strategy
+- 🧠 **Human Resource Management** — Hiring, payroll, and team building
+- 🌐 **Web & Catalogue Development** — From mockups to fully deployed sites
+
+---
+
+### 🚀 Projects I'm Proud Of
+- 📈 Boosted a residential sports school’s SEO to reach **1M+ visits/day**
+- 💍 Developed complete brand & digital presence for **Shri Mahaganapati Jewellers**
+- 🌍 Designed multilingual catalogues & CRM assets for **Flexpert Pvt. Ltd**
+- 🎓 Built Sparda College’s website and scaled digital outreach
+
+---
+
+### 🛠 Tools & Tech
+- Figma | Adobe XD | Canva | Photoshop  
+- WordPress | HTML/CSS | SEO Tools  
+- Python (AI/ML Basics) | MS Azure AI900 Certified
+
+---
+
+### 🧠 Skills & Keywords for Clients
+`UI Designer` • `UX Specialist` • `Digital Marketing Consultant` • `HR Strategy` • `Catalogue Design` • `Web Design` • `Graphic Design` • `Influencer Marketing` • `SEO Optimization` • `Creative Direction`
+
+---
+
+### 📜 Certifications & Awards
+- 🥇 President’s & Governor’s Award (Scouts/NCC)  
+- 🎖 Certified in **Machine Learning & AI** (Azure AI900)  
+- 🏆 International Science Olympiad Finalist  
+- 🧑‍🎨 Advanced Certificate in **Graphic Design**
+
+---
+
+### 📫 Let’s Connect!
+- 💌 Email: [makhpare@gmail.com](mailto:makhpare@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/maruti-khapare](https://www.linkedin.com/in/maruti-khapare)  
+- 🎨 Portfolio: [behance.net/NovaNest](https://www.behance.net/NovaNest)
+
+---
+
+### 🧳 Fun Facts
+- 📚 Fiction lover  
+- ✈️ Travel junkie  
+- 🎨 Tattoo artist in the making  
+- 🏕 Former cadet & camp enthusiast
+
+---
+
+*Always learning. Always building. Always leveling up.* 🚀
