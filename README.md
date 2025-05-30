@@ -70,7 +70,7 @@ Designed experiences that didn’t just look good — they taught too. EdTech me
 Whether you’re a startup that needs a digital identity, an agency seeking creative firepower, or just someone who appreciates good design and ROI — I got you.
 
 📩 Email: [makhpare@gmail.com](mailto:makhpare@gmail.com)  
-📱 Phone: +91 8310339256  
+📱 Phone: +91 82960 16230
 🔗 [LinkedIn](https://www.linkedin.com/in/maruti-khapare/) | [Behance](https://www.behance.net/NovaNest)
 
 ---
