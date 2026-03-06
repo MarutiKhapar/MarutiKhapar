@@ -25,8 +25,12 @@ I don’t just market — I *make* it work.
 
 ## 👨‍💼 Experience Highlights
 
+### 🏢 **Technomind IT Solutions**  
+*SEO Manager* | Aug 2025 – Feb 2026  
+SEO Manager driving 138K+ clicks and 3M+ impressions through technical SEO, content optimization, and search strategy aligned with lead generation.
+
 ### 🏢 **Deluxe Digital Advertising**  
-*Marketing Assistant* | Mar 2025 – Present  
+*Marketing Assistant* | Mar 2025 – Aug 2025  
 Helping brands become irresistible across search, social, and design. Think of me as the bridge between pixels and profits.
 
 ### 💍 **Shri Mahaganapati Jewellers**  
