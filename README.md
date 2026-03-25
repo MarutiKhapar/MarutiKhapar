@@ -25,6 +25,10 @@ I don’t just market — I *make* it work.
 
 ## 👨‍💼 Experience Highlights
 
+### 🏢 **Megamind Studio**  
+*Growth Manager* | Feb2026 – Presently  
+
+
 ### 🏢 **Technomind IT Solutions**  
 *SEO Manager* | Aug 2025 – Feb 2026  
 SEO Manager driving 138K+ clicks and 3M+ impressions through technical SEO, content optimization, and search strategy aligned with lead generation.
