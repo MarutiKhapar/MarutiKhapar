@@ -6,7 +6,7 @@
 
 ## 💡 Who Am I?
 
-I’m a **Marketing Consultant + UI/UX Designer + CRM Tinkerer** with a side hustle in making things look better (and work smarter). I mix creative storytelling, performance-driven campaigns, and front-end finesse to build brands people actually care about.
+I’m a **Growth Manager moving towards Product Management** with a side hustle in making things look better (and work smarter). I mix creative storytelling, performance-driven campaigns, and front-end finesse to build brands people actually care about.
 
 I don’t just market — I *make* it work.
 
