@@ -1,5 +1,7 @@
 # 👋 Hey there, I’m Maruti Khapare!
 
+[Explore my SEO and growth marketing portfolio](https://maruti-khapare.vercel.app/)
+
 🎯 Marketing Wizard by day, UI Magician by night. I turn clicks into conversions and pixels into profits.
 
 ---
